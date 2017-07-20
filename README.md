@@ -1,2 +1,8 @@
-# pyliners
-A collection of Python onliners
+# Pyliners
+
+**Tweets of @pyliners**
+
+Neat little Python recipes in under 140 characters
+
+
+_____
