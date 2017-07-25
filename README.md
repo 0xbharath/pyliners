@@ -34,7 +34,7 @@ python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 - Comes handy during pentests/CTFs
 
 ```python
-$ python -m base64 <<< 'apple'
+python -m base64 <<< 'apple'
 ```
 
 ### Print a calender
@@ -42,7 +42,7 @@ $ python -m base64 <<< 'apple'
 - Prints a calender
 
 ```
-$ python -m calendar
+python -m calendar
 ```
 
 
@@ -52,7 +52,7 @@ $ python -m calendar
 - `platform` module is OS agnostic.
 
 ```python
-$ python -m platform
+python -m platform
 ```
 
 ### Minimal HTTP server Python3.x
